@@ -5,7 +5,10 @@ body{
   background-position:center top;
   bacgkround-size:100%;
 }
-
+h1{
+  font-color:#000;
+  font-family: Courier, monospace;
+}
 {box-sizing:border-box}
 
 .grid{
