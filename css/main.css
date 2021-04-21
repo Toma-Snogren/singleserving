@@ -5,3 +5,8 @@ body{
   background-position:center top;
   bacgkround-size:100%;
 }
+/*Flexible Images*/
+img{
+max-width:100%;
+Height:auto;
+}
