@@ -38,7 +38,8 @@ h2{
   text-align: center;
 }
 p{
-  text-align:center;
+  font-family: Serif, Georgia;
+  background-color:000;
 }
 .hide-show{
   border:0;
