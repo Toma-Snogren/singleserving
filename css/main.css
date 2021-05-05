@@ -30,6 +30,14 @@ h1{
   align-items: center;
   justify-content: center;  
 }
+h2{
+  font-color:#000;
+  font-family: Courier, monospace;
+  text-align: center;
+}
+p{
+  text-align:center;
+}
 .hide-show{
   border:0;
   clip:rect(0,0,0,0,0,0,0,0)
