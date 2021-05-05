@@ -1,4 +1,6 @@
 body{
+  max-width:60rem;
+  margin:0 auto;
   background-color:#ffc;
   background-image:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1028278382.jpg);
   background-repeat:no-repeat;
