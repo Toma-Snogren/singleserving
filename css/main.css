@@ -30,6 +30,24 @@ h1{
   align-items: center;
   justify-content: center;  
 }
+.hide-show{
+  border:0;
+  clip:rect(0,0,0,0,0,0,0,0)
+  height:1px;
+  margin:-1px;
+  overflow:hidden;
+  padding:0;
+  white-space:nowrap;
+}
+.hide-show:target{
+  clip:auto;
+  heigh:auto;
+  margin:0;
+  overflow:visible;
+  position:static;
+  white-space:inherit;
+  width:auto;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
