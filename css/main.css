@@ -40,7 +40,6 @@ h2{
 }
 p{
   font-family: Serif, Georgia;
-  background-color:#fff;
 }
 @media (min-width:60rem){
 }
@@ -61,6 +60,7 @@ p{
   position:static;
   white-space:inherit;
   width:auto;
+  background-color:#fff;
 }
 /*Flexible Images*/
 img{
